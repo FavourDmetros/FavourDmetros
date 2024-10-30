@@ -23,8 +23,8 @@
 
   <h2>My Projects</h2>
   <p>
-    • Panorama stitcher: [I'm know working on this project. You can find here, on repositories]<br/>
-    • Object detector: [This is for future]<br/>
+    • Panorama stitcher <br/>
+    • Object detector <br/>
     <!-- List more projects here -->
   </p>
 
